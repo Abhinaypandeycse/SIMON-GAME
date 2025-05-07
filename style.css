@@ -20,7 +20,7 @@ body {
     background-color: #f99b45;
 }
 .green {
-    background-color: pink;
+    background-color: green;
 }
 .purple {
     background-color: rgb(82, 82, 251);
@@ -29,5 +29,5 @@ body {
     background-color: white;
 }
 .userflash {
-    background-color: green;
+    background-color: white;
 }
